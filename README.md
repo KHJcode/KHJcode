@@ -1,4 +1,4 @@
-### 👋 Hi! Welcome to Khj's World!
+## 👋 Hello, KHJcode!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhjcode)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kbydeveloped4485@gmail.com)](mailto:kbydeveloped4485@gmail.com)
