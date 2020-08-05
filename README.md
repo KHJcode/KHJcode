@@ -8,5 +8,3 @@
 
 ### 🌱 Let's commit everyday!
 ### 💻 I am studying web, app and AI development.
-
-### 👍 About me : [https://www.khjcode.com](https://www.khjcode.com)
