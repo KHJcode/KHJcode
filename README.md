@@ -5,5 +5,4 @@
 <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHJcode&layout=compact)](https://github.com/KHJcode)
 
-### 🌱 Let's commit everyday!
-### 💻 My blog: https://blog.khjcode.com
+#### 🌱 Let's commit everyday!
