@@ -18,8 +18,7 @@ I am a student developer studying Web, App, and AI development. In my spare time
 + React
 + Next.js
 + Node.js
-+ MySQL
-+ MongoDB
++ MySQL, MongoDB
 + Docker
 + AWS, GCP, Heroku
 + PWA
@@ -51,17 +50,17 @@ I am a student developer studying Web, App, and AI development. In my spare time
 <summary>📞 Contact me</summary>
   <br/>
     <a href='https://github.com/KHJcode' title='github'>
-      <img width='25px' src='https://image.flaticon.com/icons/png/512/25/25231.png' />
+      <img width='25px' src='https://image.flaticon.com/icons/png/512/25/25231.png' /> 
     </a>
     <a href='https://www.instagram.com/khjcode' title='instagram'>
-      <img width='25px' src='https://image.flaticon.com/icons/png/512/87/87390.png' />
+      <img width='25px' src='https://image.flaticon.com/icons/png/512/87/87390.png' /> 
     </a>
     <a href='https://open.kakao.com/me/KHJcode' title='kakaotalk'>
-      <img width='25px' src='https://image.flaticon.com/icons/png/512/100/100754.png' />
+      <img width='25px' src='https://image.flaticon.com/icons/png/512/100/100754.png' /> 
     </a>
     <a href='mailto:kbydeveloped4485@gmail.com' title='email'>
       <img width='25px'
-      src='https://image.flaticon.com/icons/png/512/60/60543.png' />
+      src='https://image.flaticon.com/icons/png/512/60/60543.png' /> 
     </a>
 
 </details>
