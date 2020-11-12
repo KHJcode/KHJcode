@@ -8,20 +8,23 @@ I am a student developer studying Web, App, and AI development. In my spare time
 
 ---
 <details>
-<summary style='font-weight:bold;'>📞 Contact</summary>
-  <div style='display:flex;padding: 10px 12px 0;'>
-    <a style='width:22px;margin: 0 7px;' href='https://github.com/KHJcode'>
-      <img src='https://image.flaticon.com/icons/png/512/25/25231.png' />
+<summary>📞 Contact</summary>
+  <div>
+  <br/>
+    <a href='https://github.com/KHJcode' title='github'>
+      <img width='20px' src='https://image.flaticon.com/icons/png/512/25/25231.png' />
     </a>
-    <a style='width:22px;margin: 0 7px;' href='https://www.instagram.com/khjcode'>
-      <img src='https://image.flaticon.com/icons/png/512/87/87390.png' />
+    <a href='https://www.instagram.com/khjcode' title='instagram'>
+      <img width='20px' src='https://image.flaticon.com/icons/png/512/87/87390.png' />
     </a>
-    <a style='width:22px;margin: 0 7px;' href='https://open.kakao.com/me/KHJcode'>
-      <img src='https://image.flaticon.com/icons/png/512/100/100754.png' />
+    <a href='https://open.kakao.com/me/KHJcode' title='kakaotalk'>
+      <img width='20px' src='https://image.flaticon.com/icons/png/512/100/100754.png' />
     </a>
-    <a style='width:22px;margin: 0 7px;' href='mailto:kbydeveloped4485@gmail.com'>
-      <img src='https://image.flaticon.com/icons/png/512/60/60543.png' />
+    <a href='mailto:kbydeveloped4485@gmail.com' title='email'>
+      <img width='20px'
+      src='https://image.flaticon.com/icons/png/512/60/60543.png' />
     </a>
+
   </div>
 
 </details>
@@ -29,7 +32,7 @@ I am a student developer studying Web, App, and AI development. In my spare time
 <br/>
 
 <details>
-<summary style='font-weight:bold;'>💻 Coding</summary>
+<summary>💻 Coding</summary>
 
 [![KHJcode's github stats](https://github-readme-stats.vercel.app/api?username=KHJcode&show_icons=true&hide_border=true)](https://github.com/KHJcode)
 
