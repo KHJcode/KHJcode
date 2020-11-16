@@ -5,15 +5,14 @@ I am a student developer studying Web, App, and AI development. In my spare time
 ---
 
 <details>
-<summary>💻 My skill</summary>
+<summary>💻 Programming study</summary>
 
 #### Web
 + HTML, CSS
 + Sass
 + JavaScript
 + TypeScript
-+ React
-+ Next.js
++ React, Next.js
 + Node.js
 + MySQL, MongoDB
 + Docker
@@ -21,15 +20,13 @@ I am a student developer studying Web, App, and AI development. In my spare time
 + PWA
 
 #### App
-+ Ionic
-+ Capacitor
++ Ionic, Capacitor
 + Flutter
 + Kodular
 
 #### AI · DataSc
 + Python
-+ Pandas
-+ Numpy
++ Pandas, Numpy
 + Scikit learn
 
 #### Etc
@@ -65,7 +62,7 @@ I am a student developer studying Web, App, and AI development. In my spare time
 <br/>
 
 <details>
-<summary>🌱 Coding life</summary>
+<summary>🌱 Github stats</summary>
 
 [![KHJcode's github stats](https://github-readme-stats.vercel.app/api?username=KHJcode&show_icons=true&hide_border=true)](https://github.com/KHJcode)
 
