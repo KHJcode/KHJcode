@@ -52,7 +52,7 @@ I am a student developer studying Web, App, and AI development. In my spare time
     <a href='https://open.kakao.com/me/KHJcode' title='kakaotalk'>
       <img width='25px' src='https://image.flaticon.com/icons/png/512/100/100754.png' /> 
     </a>
-    <a href='mailto:kbydeveloped4485@gmail.com' title='email'>
+    <a href='mailto:khjcode@sinopoda.com' title='email'>
       <img width='25px'
       src='https://image.flaticon.com/icons/png/512/60/60543.png' /> 
     </a>
