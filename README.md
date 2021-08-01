@@ -9,25 +9,23 @@ I am a student developer studying Web, App, and AI development. In my spare time
 
 #### Web
 + HTML, CSS
-+ Sass
 + JavaScript
 + TypeScript
 + React, Next.js
-+ Node.js
++ Node.js, Express, Nest.js
 + MySQL, MongoDB
-+ Docker
-+ AWS, GCP, Heroku
 + PWA
 
 #### App
 + Ionic, Capacitor
++ React Native, Expo
 + Flutter
-+ Kodular
 
 #### AI · DataSc
 + Python
 + Pandas, Numpy
 + Scikit learn
++ Tensorflow
 
 #### Etc
 + C
@@ -42,20 +40,12 @@ I am a student developer studying Web, App, and AI development. In my spare time
 
 <details>
 <summary>📞 Contact me</summary>
-  <br/>
-    <a href='https://github.com/KHJcode' title='github'>
-      <img width='25px' src='https://image.flaticon.com/icons/png/512/25/25231.png' /> 
-    </a>
-    <a href='https://www.instagram.com/khjcode' title='instagram'>
-      <img width='25px' src='https://image.flaticon.com/icons/png/512/87/87390.png' /> 
-    </a>
-    <a href='https://open.kakao.com/me/KHJcode' title='kakaotalk'>
-      <img width='25px' src='https://image.flaticon.com/icons/png/512/100/100754.png' /> 
-    </a>
-    <a href='mailto:khjcode@sinopoda.com' title='email'>
-      <img width='25px'
-      src='https://image.flaticon.com/icons/png/512/60/60543.png' /> 
-    </a>
+
+<br/>
+
+- to@khjcode.com
+- @khjcode
+- https://open.kakao.com/me/KHJcode
 
 </details>
 
@@ -69,6 +59,7 @@ I am a student developer studying Web, App, and AI development. In my spare time
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHJcode&layout=compact)](https://github.com/KHJcode)
 
 </details>
-<br />
+
+<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhjcode)](https://hits.seeyoufarm.com)
