@@ -7,34 +7,27 @@ Knowledge is power.
 ---
 
 <details>
-<summary>💻 Programming study</summary>
+<summary>💻 Programming skill</summary>
 
 #### Web
-+ HTML, CSS
-+ JavaScript
++ HTML, CSS, JavaScript
 + TypeScript
 + React, Next.js
-+ Node.js, Express, Nest.js
-+ MySQL, MongoDB
-+ PWA
++ Node.js, Express.js, Nest.js
+
+#### Database
++ MySQL
++ MongoDB
 
 #### App
 + Ionic, Capacitor
 + React Native, Expo
-+ Flutter
-
-#### AI · DataSc
-+ Python
-+ Pandas, Numpy
-+ Scikit learn
-+ Tensorflow
 
 #### Etc
-+ C
-+ Linux
-+ Cryptography
++ C, Python3
 + Arduino
-+ C#
++ Ubuntu
++ Apache, Nginx
 
 </details>
 
@@ -46,7 +39,7 @@ Knowledge is power.
 <br/>
 
 - to@khjcode.com
-- @khjcode
+- [@khjcode](https://www.instagram.com/khjcode)
 - https://open.kakao.com/me/KHJcode
 
 </details>
