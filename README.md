@@ -26,7 +26,7 @@ Knowledge is power.
 #### Etc
 + C, Python3
 + Arduino
-+ Ubuntu
++ Linux
 + Apache, Nginx
 
 </details>
