@@ -7,7 +7,7 @@ Knowledge is power.
 ---
 
 <details>
-<summary>💻 Programming skill</summary>
+<summary>💻 Programming study</summary>
 
 #### Web
 + HTML, CSS, JavaScript
