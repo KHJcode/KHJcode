@@ -14,20 +14,18 @@ Knowledge is power.
 + TypeScript
 + React, Next.js
 + Node.js, Express.js, Nest.js
-
-#### Database
-+ MySQL
-+ MongoDB
++ Apache, Nginx
++ SQL
 
 #### App
 + Ionic, Capacitor
 + React Native, Expo
 
 #### Etc
-+ C, Python3
++ C
++ Python3
 + Arduino
 + Linux
-+ Apache, Nginx
 
 </details>
 
