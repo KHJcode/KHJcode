@@ -2,7 +2,7 @@
 
 I am a student developer studying Web, App, and AI.
 
-Knowledge is power.
+Currently in the SaSS business.
 
 ---
 
