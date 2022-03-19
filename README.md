@@ -9,23 +9,40 @@ Currently in the SaSS business.
 <details>
 <summary>💻 Study</summary>
 
-#### Web
+#### FE
 + HTML, CSS, JavaScript
 + TypeScript
 + React, Next.js
+
+#### BE
 + Node.js, Express.js, Nest.js
-+ Apache, Nginx
 + SQL
+
+#### Devops
++ Linux
++ Apache, Nginx
++ Jenkins
++ Kafka
++ Docker, Kubernetes
 
 #### App
 + Ionic, Capacitor
 + React Native, Expo
++ Flutter
+
+#### AI
++ Tensorflow, .js
++ Python3
++ Pandas, Numpy
 
 #### Etc
-+ C
-+ Python3
++ Algorithm
+  - C, C++
+  - Python3
++ Security
+  - Cryptography
+  - Web Hacking
 + Arduino
-+ Linux
 
 </details>
 
