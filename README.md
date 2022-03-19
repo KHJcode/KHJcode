@@ -9,23 +9,24 @@ Currently in the SaSS business.
 <details>
 <summary>💻 Study</summary>
 
-#### FE
+#### WEB FE
 + HTML, CSS, JavaScript
 + TypeScript
 + React, Next.js
 
-#### BE
+#### WEB BE
++ JavaScript, TypeScript
 + Node.js, Express.js, Nest.js
 + SQL
 
-#### Devops
+#### DEVOPS
 + Linux
 + Apache, Nginx
 + Jenkins
 + Kafka
 + Docker, Kubernetes
 
-#### App
+#### APP
 + Ionic, Capacitor
 + React Native, Expo
 + Flutter
@@ -35,7 +36,7 @@ Currently in the SaSS business.
 + Python3
 + Pandas, Numpy
 
-#### Etc
+#### ETC
 + Algorithm
   - C, C++
   - Python3
