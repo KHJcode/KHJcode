@@ -2,7 +2,7 @@
 
 I am a student developer studying Web, App, and AI.
 
-Currently in the SaSS business.
+Currently in the SaaS business.
 
 <br/>
 
