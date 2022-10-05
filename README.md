@@ -3,49 +3,6 @@
 <br/>
 
 <details>
-<summary>💻 Study</summary>
-
-#### WEB FE
-+ HTML, CSS, JavaScript
-+ TypeScript
-+ React, Next.js
-
-#### WEB BE
-+ JavaScript, TypeScript
-+ Node.js, Express.js, Nest.js
-+ SQL
-
-#### DEVOPS
-+ Linux
-+ Apache, Nginx
-+ Jenkins
-+ Kafka
-+ Docker, Kubernetes
-
-#### APP
-+ Ionic, Capacitor
-+ React Native, Expo
-+ Flutter
-
-#### AI
-+ Tensorflow, .js
-+ Python3
-+ Pandas, Numpy
-
-#### ETC
-+ Algorithm
-  - C, C++
-  - Python3
-+ Security
-  - Cryptography
-  - Web Hacking
-+ Arduino
-
-</details>
-
-<br/>
-
-<details>
 <summary>📞 Contact</summary>
 
 <br/>
