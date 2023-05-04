@@ -24,7 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHJcode&layout=compact)](https://github.com/KHJcode)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Kimhj4485)](https://solved.ac/Kimhj4485)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhj4485)](https://solved.ac/kimhj4485)
   
 </details>
 
