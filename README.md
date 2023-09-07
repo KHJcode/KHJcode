@@ -8,8 +8,8 @@
 <br/>
 
 - to@khjcode.com
-- [@khjcode](https://www.instagram.com/khjcode)
-- https://open.kakao.com/me/KHJcode
+- [KakaoTalk](https://open.kakao.com/me/KHJcode)
+- [LinkedIn](https://www.linkedin.com/in/khjcode)
 
 </details>
 
