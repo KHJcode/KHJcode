@@ -22,9 +22,6 @@
   
 [![KHJcode's github stats](https://github-readme-stats.vercel.app/api?username=KHJcode&show_icons=true&hide_border=false)](https://github.com/KHJcode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHJcode&layout=compact)](https://github.com/KHJcode)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhj4485)](https://solved.ac/kimhj4485)
   
 </details>
 
